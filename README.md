@@ -1,4 +1,4 @@
-My LeetCode Journey: A Daily Log
+# My LeetCode Journey: A Daily Log
 This repository documents my daily practice on LeetCode. Each folder represents a day of problem-solving, starting with easier problems and progressing to more challenging ones. This log serves as a record of my learning and growth in algorithms and data structures.
 
 📂 Repository Structure
